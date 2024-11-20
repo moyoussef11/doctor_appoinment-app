@@ -23,9 +23,3 @@ This project is a web application built using the MERN stack (MongoDB, Express.j
 - Node.js
 - MongoDB (locally or via a cloud service like MongoDB Atlas)
 
-### Frontend Setup
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd <project-directory>/frontend
