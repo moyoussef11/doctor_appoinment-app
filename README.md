@@ -11,7 +11,7 @@ This project is a web application built using the MERN stack (MongoDB, Express.j
 - **Admin Dashboard**: Admin can manage users and doctors and view appointments.
 
 ## Tech Stack
-- **Frontend**: React, React Router, Axios
+- **Frontend**: React, React Router, Redux-toolkit , Axios
 - **Backend**: Node.js, Express.js, JWT (JSON Web Token) for Authentication
 - **Database**: MongoDB
 - **Authentication**: JWT, bcrypt.js for password hashing
